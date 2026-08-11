@@ -1,0 +1,1 @@
+Python utility that converts an iTunes/Apple FairPlay key URI (skd://itunes.apple.com/pXXXX/cYY) into the three values: the KID, the Widevine PSSH (base64), and the PlayReady PSSH (base64 with WRMHEADER). No dependencies.
